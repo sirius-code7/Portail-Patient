@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "medecin": "Dr. Smith",
+    "specialite": "Cardiologue",
+    "date": "2025-08-01T10:00:00Z",
+    "lieu": "Hôpital Central, bureau 2B",
+    "statut": "passé"
+  },
+  {
+    "id": "2",
+    "medecin": "Dr. Jones",
+    "specialite": "Dermatologue",
+    "date": "2025-08-05T14:30:00Z",
+    "lieu": "Clinique du Lac, cabinet 12",
+    "statut": "à venir"
+  },
+  {
+    "id": "3",
+    "medecin": "Dr. Lee",
+    "specialite": "Généraliste",
+    "date": "2025-08-15T09:00:00Z",
+    "lieu": "Centre de Santé, bureau 5",
+    "statut": "à venir"
+  }
+]

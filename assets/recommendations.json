@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "titre": "Hydratation : Pensez à boire de l'eau",
+    "description": "Boire au moins 1.5L d'eau par jour est essentiel pour votre santé.",
+    "categorie": "Nutrition"
+  },
+  {
+    "id": "2",
+    "titre": "Marchez 30 minutes par jour",
+    "description": "Une marche rapide améliore la circulation sanguine et l'humeur.",
+    "categorie": "Activité physique"
+  },
+  {
+    "id": "3",
+    "titre": "7h de sommeil, c'est l'idéal",
+    "description": "Un sommeil de qualité est la base d'une bonne santé physique et mentale.",
+    "categorie": "Sommeil"
+  },
+  {
+    "id": "4",
+    "titre": "Préparez vos repas à l'avance",
+    "description": "Planifier vos repas aide à maintenir une alimentation équilibrée.",
+    "categorie": "Nutrition"
+  }
+]
