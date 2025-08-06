@@ -28,7 +28,7 @@ Portail Patient - Application Mobile Flutter
     ### Lancement de l'application
 
     1.  **Cloner le dépôt** (si ce n'est pas déjà fait) :
-        `git clone [https://github.com/sirius-code7/Portail-Patient.git]`
+        `git clone https://github.com/sirius-code7/Portail-Patient.git`
         `cd portail_patient`
 
     2.  **Récupèrer les dépendances** :
