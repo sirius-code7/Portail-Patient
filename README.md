@@ -49,15 +49,15 @@ Portail Patient - Application Mobile Flutter
     Voici un aperçu de l'application en action :
 
     ### Écran d'Accueil
-    ![Capture d'écran de l'écran d'accueil](https://github.com/user-attachments/assets/ab9b0c1b-af7b-4904-a9da-5d89dbbd8152)
+    ![Capture d'écran de l'écran d'accueil](assets/images/captures/Accueil.png)
 
     ### Écran des Rendez-vous
-    ![Capture d'écran de l'écran des rendez-vous](https://github.com/user-attachments/assets/559f7e2d-3630-4b0e-9883-2c7f9c5458a0)
+    ![Capture d'écran de l'écran des rendez-vous](assets/images/captures/Rendez-vous.png)
 
     ### Écran du Dossier Médical
-    ![Capture d'écran de l'écran du dossier médical](https://github.com/user-attachments/assets/fa32ff89-4447-41b9-ad55-bd2fe1204cd1)
+    ![Capture d'écran de l'écran du dossier médical](assets/images/captures/Dossier.png)
 
     ### Écran des Recommandations
-    ![Capture d'écran de l'écran des recommandations](https://github.com/user-attachments/assets/730e1c8d-846f-4039-92af-5df09b46d624)
+    ![Capture d'écran de l'écran des recommandations](assets/images/captures/Recommandations.png)
 
     
