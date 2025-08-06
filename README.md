@@ -60,6 +60,4 @@ Portail Patient - Application Mobile Flutter
     ### Écran des Recommandations
     ![Capture d'écran de l'écran des recommandations](https://github.com/user-attachments/assets/730e1c8d-846f-4039-92af-5df09b46d624)
 
-    ## Note Importante
-
-    Ce projet a été développé sans l'aide d'outils comme ChatGPT. Tout le code et les commentaires ont été produits manuellement pour garantir une compréhension et une personnalisation complètes.
+    
