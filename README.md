@@ -49,10 +49,10 @@ S'assurer d'avoir installé :
 Voici un aperçu de l'application en action :
 
 ### Écran d'Accueil
-![Capture d'écran de l'écran d'accueil](assets/captures/Acceuil.png)
+![Capture d'écran de l'écran d'accueil](assets/captures/Accueil.png)
 
 ### Écran des Rendez-vous
-![Capture d'écran de l'écran des rendez-vous](https://github.com/sirius-code7/Portail-Patient/blob/main/assets/captures/Acceuil.png?raw=true)
+![Capture d'écran de l'écran des rendez-vous](assets/captures/Rendez-vous.png)
 
 ### Écran du Dossier Médical
 ![Capture d'écran de l'écran du dossier médical](assets/captures/Dossier.png)
