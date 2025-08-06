@@ -64,6 +64,6 @@ Voici un aperçu de l'application en action :
 ### Écran des Recommandations
 ![Capture d'écran de l'écran des recommandations](assets/captures/Recommandations.png)
 
-## Note Importante
+## FIN
 
-Ce projet a été développé sans l'aide d'outils comme ChatGPT. Tout le code et les commentaires ont été produits manuellement pour garantir une compréhension et une personnalisation complètes.
+Merci de votre visite et bonne navigation !
