@@ -13,6 +13,10 @@ L'objectif principal de cette application est de fournir aux patients un accès 
 
 On a cherché à rendre l'expérience utilisateur fluide et agréable, avec un design clair et des animations sympas.
 
+## Note importante
+
+Cette application ne dispose pas de backend ni de base de données. Toutes les données sont chargées de manière statique à partir de fichiers JSON locaux situés dans le dossier /assets. Ces fichiers simulent une API, permettant à l'application de fonctionner de manière autonome.
+
 ## Instructions d'exécution
 
 Pour faire tourner cette application, suivre ces étapes :
