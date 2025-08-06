@@ -66,7 +66,7 @@ class RendezvousCard extends StatelessWidget {
                             CrossAxisAlignment.start, // tout aligné à gauche
                         children: [
                           Text(
-                            '. ${rendezvous.medecin}', // le nom du médecin
+                            ' ${rendezvous.medecin}', // le nom du médecin
                             style: Theme.of(context)
                                 .textTheme
                                 .titleMedium
