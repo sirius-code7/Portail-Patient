@@ -456,7 +456,7 @@ class _HomeScreenState extends State<HomeScreen>
 
                 return Container(
                   width: MediaQuery.of(context).size.width *
-                      0.65, // la largeur de chaque carte (65% de l'écran)
+                      0.80, // la largeur de chaque carte (65% de l'écran)
                   margin: const EdgeInsets.only(
                       right: 16), // un espace entre les carte
                   decoration: BoxDecoration(
