@@ -117,7 +117,7 @@ class MyApp extends StatelessWidget {
           surface: Colors.grey[50], // couleur de surface
         ),
         scaffoldBackgroundColor: Colors.grey[50], // le fond des écrans
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           // le style des cartes
           elevation: 4,
           shape: RoundedRectangleBorder(
