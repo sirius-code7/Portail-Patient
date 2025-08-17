@@ -55,8 +55,8 @@ class FilterTabs extends StatelessWidget {
                     BorderRadius.circular(20), // coin bien rond pour les bouton
                 boxShadow: [
                   BoxShadow(
-                    color: Colors.black
-                        .withOpacity(0.05), // une légère ombre sous le bouton
+                    color: Colors.black.withAlpha((0.05 * 255)
+                        .round()), // une légère ombre sous le bouton
                     spreadRadius: 1,
                     blurRadius: 5,
                     offset: const Offset(0, 3),
