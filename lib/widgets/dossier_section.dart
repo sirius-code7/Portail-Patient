@@ -41,7 +41,8 @@ class DossierSection extends StatelessWidget {
           borderRadius: BorderRadius.circular(16), // on arrondis les coin
           boxShadow: [
             BoxShadow(
-              color: Colors.black.withOpacity(0.05), // une légère ombre
+              color: Colors.black
+                  .withAlpha((0.05 * 255).round()), // une légère ombre
               spreadRadius: 1,
               blurRadius: 5,
               offset: const Offset(0, 3),
