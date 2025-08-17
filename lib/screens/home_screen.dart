@@ -221,7 +221,8 @@ class _HomeScreenState extends State<HomeScreen>
                 borderRadius: BorderRadius.circular(16), // des coins arrondi
                 boxShadow: [
                   BoxShadow(
-                    color: Colors.black.withOpacity(0.05), // ombre
+                    color:
+                        Colors.black.withAlpha((0.05 * 255).round()), // ombre
                     spreadRadius: 1,
                     blurRadius: 5,
                     offset: const Offset(0, 3),
@@ -464,8 +465,8 @@ class _HomeScreenState extends State<HomeScreen>
                     borderRadius: BorderRadius.circular(16), // coin arrondis
                     boxShadow: [
                       BoxShadow(
-                        color: Colors.black
-                            .withOpacity(0.1), // legere ombre sous la carte
+                        color: Colors.black.withAlpha(
+                            (0.1 * 255).round()), // legere ombre sous la carte
                         spreadRadius: 1,
                         blurRadius: 8,
                         offset: const Offset(0, 4),
