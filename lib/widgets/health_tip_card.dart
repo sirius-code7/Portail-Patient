@@ -27,8 +27,8 @@ class HealthTipCard extends StatelessWidget {
         borderRadius: BorderRadius.circular(16), // coins arrondis
         boxShadow: [
           BoxShadow(
-            color: Colors.black
-                .withOpacity(0.05), // une légère ombre sous la carte
+            color: Colors.black.withAlpha(
+                (0.05 * 255).round()), // une légère ombre sous la carte
             spreadRadius: 1,
             blurRadius: 5,
             offset: const Offset(0, 3),
